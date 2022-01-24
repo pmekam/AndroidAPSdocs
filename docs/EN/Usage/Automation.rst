@@ -143,7 +143,7 @@ This example is made by someone who has lunch at work at the same time every day
 
 Incorrect use of automation
 --------------------------------------------------
-Please be aware to use automation incorrectly. This might lead to difficulties and even danger for your health. Examples for incorrect use are for instance:
+Please be aware NOT to use automation incorrectly. This might lead to difficulties and even danger for your health. Examples for incorrect use are for instance:
 
 * Trying to override algorithm at all instead of help only (i.e. by changing profile instead of tunning basal, IC etc.)
 * Setting profile to compensate food
